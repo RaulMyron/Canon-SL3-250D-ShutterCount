@@ -6,7 +6,7 @@
 
 # This script helps my BROTHERS AND SISTERS that need to know the shutter count on the canon sl3 - WINDOWS ONLY
 
-# All thx to [@mechite](github.com/mechite) and  [SHDK wiki Original Link](https://chdk.fandom.com/wiki/Canon_Basic/Card_Setup)
+# All thx to [@mechite](github.com/Mechite) and  [SHDK wiki Original Link](https://chdk.fandom.com/wiki/Canon_Basic/Card_Setup)
 
 You can do this two ways, the easiest way you can do is:
 
