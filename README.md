@@ -6,7 +6,7 @@
 
 # This script helps my BROTHERS AND SISTERS that need to know the shutter count on the canon sl3 - WINDOWS ONLY
 
-# All thx to @mechite and  [SHDK wiki Original Link](https://chdk.fandom.com/wiki/Canon_Basic/Card_Setup)
+# All thx to [@mechite](github.com/mechite) and  [SHDK wiki Original Link](https://chdk.fandom.com/wiki/Canon_Basic/Card_Setup)
 
 You can do this two ways, the easiest way you can do is:
 
@@ -16,7 +16,7 @@ You can do this two ways, the easiest way you can do is:
 ## Way 2
 Editing your SDcard with a hex editor (suggested HxD and DO NOT SHIT THIS UP PLZ ⚠️ ⚠️ ⚠️)
 1. In HxD: Tools -> Open Disk -> Choose Your SD Card (Please BE AWARE THAT U CAN BREAK YOUR DISK and uncheck for the SD card the "Open as readonly" box) -> Click Ok
-2. There you gotta find the 1F0, so CTRL + F on it, then finding it substitute the points on right for SCRIPT.
+2. There you gotta find the 1F0, so CTRL + G on it, then finding it substitute the points on right for SCRIPT.
 ![image](https://github.com/RaulMyron/Canon-SL3-250D-ShutterCount/assets/39887348/6a00f86c-a517-4685-ad8f-4d2f7c182971)
 
 For any way taken, now we gotta continue.
